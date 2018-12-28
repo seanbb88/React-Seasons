@@ -1,0 +1,46 @@
+.icon-left{ 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+}
+
+.icon-right{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    position: absolute; 
+    bottom: 10px; 
+    right: 10px; 
+}
+
+.season-display.winter i {
+    color: rgb(116, 116, 243)
+}
+
+.season-display.summer i {
+    color: red; 
+}
+
+.season-display{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+}
+
+.winter{
+    background-color: aliceblue; 
+}
+
+.summer{
+    background-color: rgb(241, 150, 116); 
+}
+
+.season-text{
+    font-size: 50px; 
+}
+
+.border-gold{
+    border: solid gold 5px; 
+}
