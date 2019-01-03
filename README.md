@@ -6,4 +6,4 @@ This App grabs the users location and displays what the season is based off the 
 To start application: <br/>
 -clone repository <br/>
 -cd into the React-Seasons folder <br/> 
--run npm run start in the command line <br/>
+-run "npm run start" in the command line <br/>
